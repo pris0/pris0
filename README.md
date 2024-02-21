@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pris0
+- 👋 Hi, I’m Priscilla
 - 👀 I’m interested in AI, Mathematics and Statistics
 - 🌱 I’m currently learning Artificial Intelligence at Università di Milano Bicocca
 - 📫 Reach me at p.cortese2@campus.unimib.it
